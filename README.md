@@ -8,6 +8,8 @@
 
 
 # User Stories:
+###### Items with '*' are reach goals
+
 - When users enter the website, users should see the landing page with a list of available articles
 - When users sign-up, users should see an indication of its success or failure.
 - When users sign-in, users should see an indication of its success or failure.
