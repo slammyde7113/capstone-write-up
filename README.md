@@ -1,6 +1,6 @@
 # Wireframe:
 
-![alt text](![alt text](Capstone-ERD.jpeg "Picture of Project Wire-Frame") "Picture of Project Wire-Frame")
+![alt text](Capstone-ERD.jpeg "Picture of Project Wire-Frame")
 
 # ERD Diagram:
 
