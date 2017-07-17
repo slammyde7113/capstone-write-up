@@ -4,7 +4,7 @@
 
 # ERD Diagram:
 
-![alt text](Capstone-ERD.jpeg "Picture of Project ERD")
+![alt text](Capstone-Wireframe.jpeg "Picture of Project ERD")
 
 
 # User Stories:
